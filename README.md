@@ -1,5 +1,5 @@
 # landing-page
 
- Leading page HTML e CSS
+ Leading page criada com HTML e CSS para praticar. 
  
 
